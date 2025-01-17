@@ -1,5 +1,5 @@
 data/
-models/
+model/
 
 # Pycharm
 *.idea/
@@ -97,6 +97,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+cluster_venv/
 
 # Spyder project settings
 .spyderproject
